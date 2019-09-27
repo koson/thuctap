@@ -1,0 +1,10 @@
+D:\test\ngohieu\ModbusRTU\ModbusRTU\obj\Debug\ModbusRTU.Form1.resources
+D:\test\ngohieu\ModbusRTU\ModbusRTU\obj\Debug\ModbusRTU.Properties.Resources.resources
+D:\test\ngohieu\ModbusRTU\ModbusRTU\obj\Debug\ModbusRTU.csproj.GenerateResource.cache
+D:\test\ngohieu\ModbusRTU\ModbusRTU\obj\Debug\ModbusRTU.csproj.CoreCompileInputs.cache
+D:\test\ngohieu\ModbusRTU\ModbusRTU\bin\Debug\ModbusRTU.exe.config
+D:\test\ngohieu\ModbusRTU\ModbusRTU\bin\Debug\ModbusRTU.exe
+D:\test\ngohieu\ModbusRTU\ModbusRTU\bin\Debug\ModbusRTU.pdb
+D:\test\ngohieu\ModbusRTU\ModbusRTU\obj\Debug\ModbusRTU.exe
+D:\test\ngohieu\ModbusRTU\ModbusRTU\obj\Debug\ModbusRTU.pdb
+D:\test\ngohieu\ModbusRTU\ModbusRTU\obj\Debug\ModbusRTU.csprojAssemblyReference.cache
